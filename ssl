@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Function to print certificate information
+print_certificate_info() {
+    domain="$1"
+    today=$(date +%F)
+    expires=$(echo | openssl s_client -servername $domain -connect $domain:443 2>/dev/null | openssl x509 -noout -dates | grep 'notAfter' | sed 's/notAfter=//')
+
+    echo "# Leaf Certificate Issued For:" >> hasil_ssl.txt
+    echo "Domain: $(echo | openssl s_client -servername $domain -connect $domain:443 2>/dev/null | openssl x509 -noout -subject | sed 's/subject=/Domain: /')" >> hasil_ssl.txt
+
+    echo "# Leaf Certificate Expires In:" >> hasil_ssl.txt
+    echo "$(( ( $(date -ud "$expires" +'%s') - $(date -ud "$today" +'%s') )/60/60/24 )) days" >> hasil_ssl.txt
+
+    echo "# Leaf Certificate Dates:" >> hasil_ssl.txt
+    echo "Issued  On: $(echo | openssl s_client -servername $domain -connect $domain:443 2>/dev/null | openssl x509 -noout -dates | sed 's/notBefore=/Issued  On: /' | sed 's/notAfter=/Expires On: /')" >> hasil_ssl.txt
+
+    echo "# Leaf Certificate Issued by:" >> hasil_ssl.txt
+    echo "Issuer: $(echo | openssl s_client -servername $domain -connect $domain:443 2>/dev/null | openssl x509 -noout -issuer | sed 's/issuer=/Issuer: /')" >> hasil_ssl.txt
+}
+
+# Main loop
+for domain in "$@"
+do
+    echo "# Checking Domain/Hostname:" >> hasil_ssl.txt
+    echo -e "\t$domain" >> hasil_ssl.txt
+
+    host -t A $domain > /dev/null
+    if [ $? -eq 0 ]; then
+        print_certificate_info "$domain"
+    else
+        echo "Error: Could Not Resolve ${domain} Domain Name..." >> hasil_ssl.txt
+    fi
+    echo "======================================================="\n >> hasil_ssl.txt
+done
+
+echo -e "\nHasil telah disimpan dalam file hasil_ssl.txt"

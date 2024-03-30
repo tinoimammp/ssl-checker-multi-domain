@@ -1,0 +1,180 @@
+# Checking Domain/Hostname:
+	layanan.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+8 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar  6 00:00:00 2023 GMT
+Expires On: Apr  5 23:59:59 2024 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	seleksi.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	portal.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	jdih.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	komin.fo
+# Leaf Certificate Issued For:
+Domain: Domain: CN=komin.fo
+# Leaf Certificate Expires In:
+345 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar  8 00:00:00 2024 GMT
+Expires On: Mar  8 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+=======================================================n
+# Checking Domain/Hostname:
+	sikap.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	layanan.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+8 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar  6 00:00:00 2023 GMT
+Expires On: Apr  5 23:59:59 2024 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	seleksi.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	portal.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	jdih.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	komin.fo
+# Leaf Certificate Issued For:
+Domain: Domain: CN=komin.fo
+# Leaf Certificate Expires In:
+345 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar  8 00:00:00 2024 GMT
+Expires On: Mar  8 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+=======================================================n
+# Checking Domain/Hostname:
+	sikap.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+330 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar 11 00:00:00 2024 GMT
+Expires On: Feb 21 23:59:59 2025 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+=======================================================n
+# Checking Domain/Hostname:
+	simpatik.kominfo.go.id
+# Leaf Certificate Issued For:
+Domain: Domain: C=ID, ST=Daerah Khusus Ibukota Jakarta, L=Jakarta Pusat, O=Kementerian Komunikasi dan Informatika Republik Indonesia, CN=*.kominfo.go.id
+# Leaf Certificate Expires In:
+8 days
+# Leaf Certificate Dates:
+Issued  On: Issued  On: Mar  6 00:00:00 2023 GMT
+Expires On: Apr  5 23:59:59 2024 GMT
+# Leaf Certificate Issued by:
+Issuer: Issuer: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+=======================================================n
