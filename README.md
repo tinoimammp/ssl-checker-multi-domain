@@ -25,7 +25,7 @@ Input all domain in:
   ssl.list
 ```
 
-Star
+Start
 
 ```bash
   sh run.sh
